@@ -1,6 +1,4 @@
-# Eurovia Internship
 
-This is Eurivia VINCI internship innovation project:
 Team Members are:
 - Eleonore Jacquemet
 - Timothy Delille
